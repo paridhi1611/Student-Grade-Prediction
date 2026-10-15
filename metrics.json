@@ -1,0 +1,15 @@
+{
+  "dataset": "UCI Student Performance (ID 320)",
+  "target": "G3 (final mathematics grade, scale 0-20)",
+  "features_used": 30,
+  "records_used": 649,
+  "test_records": 130,
+  "model": "Linear Regression",
+  "predictors_excluded_to_avoid_leakage": [
+    "G1",
+    "G2"
+  ],
+  "MAE": 2.1564,
+  "RMSE": 2.8618,
+  "R2": 0.1602
+}
