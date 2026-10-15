@@ -58,4 +58,6 @@ This project illustrates data loading, preprocessing, train/test splitting, regr
 [3] scikit-learn developers, “Model evaluation.” https://scikit-learn.org/stable/modules/model_evaluation.html  
 
 ## Appendix: Repository
-Add your GitHub repository URL here after creating the repository. Attach the genuine Turnitin similarity report at the end of the final submission PDF if required by the instructor.
+**GitHub repository:** https://github.com/paridhi1611/Student-Grade-Prediction
+
+The repository contains the project source code, requirements, evaluation metrics, predictions, and generated visualizations. The genuine Turnitin similarity report will be attached at the end of the final submission PDF.
